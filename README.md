@@ -128,7 +128,6 @@ Uber needs to understand why nearly 40% of bookings are lost, identify cancellat
 - Midnight hours (12AM–5AM) show 88–106 unaccepted trips — relatively low but consistent
 
 **Auto generate both the highest demand and the highest operational issues** across all categories (6.6K total problems and $12.7M total revenue) — expected given its volume dominance, but worth monitoring per-trip problem rates.
- generate both the highest demand and the highest operational issues.
 ---
 
 ## 💡 Recommendations
