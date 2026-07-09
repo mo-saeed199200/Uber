@@ -96,6 +96,7 @@ Uber needs to understand why nearly 40% of bookings are lost, identify cancellat
 ### ⚠️ Trips Problem — Detailed Breakdown
 
 **Cancellations by Customer (10,496 total):**
+- High cancellations are driven by operational inefficiencies and poor customer experience (location accuracy, flexibility)
 - Wrong Address: 2,362
 - Change of plans: 2,352
 - Driver not moving toward pickup: 2,334
@@ -126,8 +127,8 @@ Uber needs to understand why nearly 40% of bookings are lost, identify cancellat
 - Uber XL has the lowest unaccepted bookings (0.3K) — lower demand means easier to match
 - Midnight hours (12AM–5AM) show 88–106 unaccepted trips — relatively low but consistent
 
-**Auto has the highest problem count** across all categories (6.6K total problems) — expected given its volume dominance, but worth monitoring per-trip problem rates
-**The most popular vehicle types (Auto, Go Mini, Go Sedan) generate both the highest demand and the highest operational issues.
+**Auto generate both the highest demand and the highest operational issues** across all categories (6.6K total problems and $12.7M total revenue) — expected given its volume dominance, but worth monitoring per-trip problem rates.
+ generate both the highest demand and the highest operational issues.
 ---
 
 ## 💡 Recommendations
